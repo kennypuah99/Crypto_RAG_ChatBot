@@ -1,0 +1,4 @@
+Bitcoin is a decentralized digital currency that uses a peer-to-peer network and Proof-of-Work consensus.
+New bitcoins are issued as block subsidies that halve roughly every 210,000 blocks (~4 years).
+The all-time high (ATH) refers to the highest historical market price.
+Metadata: coin=bitcoin; type=article; source=sample;
