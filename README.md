@@ -1,3 +1,14 @@
+---
+title: Crypto_RAG_ChatBot
+emoji: 💡
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+sdk_version: "5.9.0"
+app_file: app.py
+pinned: false
+---
+
 # Crypto_RAG_ChatBot
  This is a cryptocurrency-focused Retrieval-Augmented Generation (RAG) app. It retrieves from your uploaded documents and added URLs, reranks results, and generates  answers with a chat LLM. It can also route "price" queries to a live price tool for major coins.
 
